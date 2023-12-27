@@ -8,4 +8,4 @@
   4. SSD(:Single Shot MultiBox Detector)
 
 
-## 📝 AlexNet
+## AlexNet
